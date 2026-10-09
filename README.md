@@ -2,7 +2,11 @@
 <p>
 </p>
 
-> Find the shortest path of movie connections between any two Hollywood actors.
+>The Goal: Find the shortest path of movie connections between any two Hollywood actors.
+
+The Graph Structure: Actors and movies act as nodes, and the shared films act as edges connecting them.
+
+The Algorithm: It requires implementing an optimal search algorithm (typically Breadth-First Search via a QueueFrontier) to explore the network, track states, and guarantee the shortest possible degree of separation between two people.
 
 ## Author
 
