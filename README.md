@@ -2,7 +2,7 @@
 <p>
 </p>
 
->The Goal: Find the shortest path of movie connections between any two Hollywood actors.
+>The Goal: Find the shortest path of movie connections between any two Hollywood actors from csv files.
 
 The Graph Structure: Actors and movies act as nodes, and the shared films act as edges connecting them.
 
